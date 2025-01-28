@@ -1,25 +1,63 @@
-## Olá! Eu sou o Wallyson Neves
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82e0aa&height=120&section=header"/>
 
-<div>
-  <a href="https://github.com/wallysoneves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallysoneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysoneves&layout=compact&langs_count=16&theme=dark"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=82e0aa&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+WALLYSON+NEVES+DE+MORAES;I´M+A+SOFTWARE+DEVELOPER+AT+KAIZEN+SOLUTIONS+;BE+WELCOME!+:%29)](https://git.io/typing-svg) 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/wallyson-neves-627b71236" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>   
-</div>
+<div align="center">
   
-  ![Snake animation](https://github.com/wallysoneves/wallysoneves/blob/output/github-contribution-grid-snake.svg)
+  <div>
+    <a href="https://github.com/wallysoneves">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallysoneves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysoneves&layout=compact&langs_count=16&theme=dark"/>
+  </div>&nbsp;&nbsp;
+
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Wallysoneves&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </p>&nbsp;&nbsp;
+
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wallysoneves&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/Wallysoneves/github-readme-activity-graph)
+
+  <div>
+    <a href="https://www.linkedin.com/in/wallyson-neves-627b71236" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>   
+  </div>
+  
+</div>
+
+### Main skills:
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=purple&labelColor=0D1117)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-springboot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Ionic](https://img.shields.io/badge/-Ionic-0D1117?style=for-the-badge&logo=ionic&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ 
+### Tools:
+![Intellij](https://img.shields.io/badge/-Intellij%20Idea-0D1117?style=for-the-badge&logo=intellijidea&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse%20-0D1117?style=for-the-badge&logo=eclipseide&logoColor=90ee90&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+ 
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+![ApacheKafka](https://img.shields.io/badge/-Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&labelColor=0D1117)&nbsp;
+  
+### Studying in this moment:
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
+![IOS](https://img.shields.io/badge/-IOS-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+  <br><p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/Wallysoneves/count.svg" /></p> 
+  <br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=82e0aa&height=120&section=footer"/>
