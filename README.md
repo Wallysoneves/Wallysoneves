@@ -51,7 +51,7 @@
 ![snake gif](https://github.com/Wallysoneves/Wallysoneves/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
+  <br><p align="centre"><b>Visitors</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/Wallysoneves/count.svg" /></p> 
   <br>
 </div>
