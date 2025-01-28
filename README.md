@@ -16,12 +16,6 @@
 
   
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wallysoneves&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/Wallysoneves/github-readme-activity-graph)
-
-  <div>
-    <a href="https://www.linkedin.com/in/wallyson-neves-627b71236" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>   
-  </div>
   
 </div>
 
