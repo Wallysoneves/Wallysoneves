@@ -7,7 +7,7 @@
   <div>
     <a href="https://github.com/wallysoneves">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wallysoneves&show_icons=true&theme=dark&ide_border=true&include_all_commits=true&count_private=true&title_color=117a65&icon_color=82e0aa&text_color=c9d1d9&bg_color=0d1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysoneves&layout=compact&langs_count=16&&ide_border=true&&theme=dark&title_color=117a65&icon_color=82e0aa&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallysoneves&layout=compact&langs_count=16&ide_border=true&theme=dark&title_color=117a65&icon_color=82e0aa&text_color=c9d1d9&bg_color=0d1117"/>
   </div>&nbsp;&nbsp;
 
   <p align="center">
@@ -47,6 +47,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular&labelColor=0D1117)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0D1117?style=for-the-badge&logo=kotlin&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![IOS](https://img.shields.io/badge/-IOS-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+![snake gif](https://github.com/Wallysoneves/Wallysoneves/blob/output/github-contribution-grid-snake.gif)
 
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
